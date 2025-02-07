@@ -4,7 +4,6 @@ import com.google.android.gms.auth.api.signin.*
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.GoogleAuthProvider
-import com.st.auth.domain.model.AuthUser
 import com.st.auth.domain.repository.AuthRepository
 import kotlinx.coroutines.tasks.await
 
